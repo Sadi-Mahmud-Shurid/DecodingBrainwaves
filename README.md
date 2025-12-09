@@ -1,7 +1,5 @@
 # DecodingBrainwaves
 
-A deep learning framework for decoding brain activity from EEG signals and generating text descriptions using Large Language Models.
-
 ## 📋 Table of Contents
 - [How to Reproduce](#how-to-reproduce)
 - [Prerequisites](#prerequisites)
