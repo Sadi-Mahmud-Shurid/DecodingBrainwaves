@@ -73,7 +73,7 @@ python inference.py \
 
 ### 7. Evaluate Results
 
-To run the evaluation, execute the `metrics_based_evaluation.ipynb` notebook. 
+To run the evaluation, execute the `metrics based evaluation.ipynb` notebook. 
 
 > **Note:** Make sure to update the paths and file names according to your directory structure and the CSV file generated during inference.
 
