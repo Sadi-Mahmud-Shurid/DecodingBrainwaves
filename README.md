@@ -1,12 +1,5 @@
 # DecodingBrainwaves
 
-## 📋 Table of Contents
-- [How to Reproduce](#how-to-reproduce)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Acknowledgments](#acknowledgments)
-
 ## 🚀 How to Reproduce
 
 Follow these steps to set up and run this project.
